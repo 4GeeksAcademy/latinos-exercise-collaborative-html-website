@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+
+header {
+    background-color: rgb(14, 14, 14);;
+}
+
+nav.bg-nav {
+    background-color: rgb(14, 14, 14);
+}
+
+nav.bg-nav ul li a {
+    color: #fff;
+}
