@@ -1,5 +1,8 @@
 body{
-    background: #BDBDBD;
+    /* background: #BDBDBD; */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -13,3 +16,28 @@ nav.bg-nav {
 nav.bg-nav ul li a {
     color: #fff;
 }
+
+.navbar {
+      margin-top: 10px; /* Ajusta este valor según lo que necesites */
+    }
+
+.container {
+    /* height: 70vh; */
+    /* width: 100%;  */
+    background-position: center; 
+    background-size: cover; 
+    background-image: url(../img/bg.jpg);
+    max-width: 100%;
+}
+
+.navegacion {
+    
+    max-width: 100%;
+}
+
+
+
+
+
+
+
