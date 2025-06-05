@@ -1,3 +1,44 @@
 body{
-    background: #BDBDBD;
+    /* background: #BDBDBD; */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
+
+header {
+    background-color: rgb(14, 14, 14);;
+}
+
+nav.bg-nav {
+    background-color: rgb(14, 14, 14);
+}
+
+nav.bg-nav ul li a {
+    color: #fff;
+}
+
+.navbar {
+      margin-top: 10px; /* Ajusta este valor según lo que necesites */
+    }
+
+.container {
+    height: 300px;
+    /* width: 100%;  */
+    background-position: center; 
+    background-size: 80% auto; 
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+
+.navegacion {
+    
+    max-width: 100%;
+}
+
+
+
+
+
+
+
