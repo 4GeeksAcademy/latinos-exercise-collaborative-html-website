@@ -22,11 +22,12 @@ nav.bg-nav ul li a {
     }
 
 .container {
-    /* height: 70vh; */
+    height: 300px;
     /* width: 100%;  */
     background-position: center; 
-    background-size: cover; 
+    background-size: 80% auto; 
     background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
     max-width: 100%;
 }
 
