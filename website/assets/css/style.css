@@ -1,3 +1,6 @@
-body{
-    background: #BDBDBD;
+.text { 
+    font-size: large;
+}
+.header {
+    font-size: xx-large;
 }
