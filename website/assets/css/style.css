@@ -5,10 +5,9 @@ body{
     padding: 0;
 }
 
-
-
-
-
-
-
-
+.text { 
+    font-size: large;
+}
+.header {
+    font-size: xx-large;
+}
